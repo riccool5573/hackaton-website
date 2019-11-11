@@ -1,0 +1,22 @@
+#banner{
+    background-color: #D293CB;
+}
+#input{
+    
+        background-image: linear-gradient(to right, #1F00FF , #E53F60);
+        height: 100%;
+
+}
+#form{
+    margin-top: 200px;
+    margin-right:150px;
+    font-family:"Akzidenz-Grotesk";
+    font-size: 40px;
+    color: white;
+    height: 100%;
+}
+#picture{
+
+    background-image: linear-gradient(to right, #1F00FF , #E53F60);  
+    height: 100%; 
+}
