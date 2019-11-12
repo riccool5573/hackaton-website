@@ -26,3 +26,23 @@ body{
     color: white;
     font-family: 'Montserrat', sans-serif;
   }
+
+#text {
+  margin: auto;
+  width: 1000px;
+  background-color: rgb(214, 214, 214);
+  font-family: 'Montserrat', sans-serif;
+  float: right;
+  margin: 25px;
+  padding: 20px;
+}
+
+#text2 {
+  margin: auto;
+  width: 300px;
+  background-color: rgb(214, 214, 214);
+  font-family: 'Montserrat', sans-serif;
+  float: left;
+  margin: 27px;
+  padding: 20px;
+}
