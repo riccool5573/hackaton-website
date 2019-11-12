@@ -16,8 +16,44 @@
     color: white;
     height: 100%;
 }
-#picture{
 
+
+body{
     background-image: linear-gradient(to right, #1F00FF , #E53F60);  
-    height: 100%; 
 }
+
+#login{
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#frm1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#invoerww{
+    padding: 8px;
+    margin: 7px;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    text-align: center;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    text-align: center;  
+ }
+ 
+ :-ms-input-placeholder {  
+    text-align: center; 
+ }

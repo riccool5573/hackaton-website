@@ -1,9 +1,28 @@
 #banner{
     background-color: #D293CB;
 }
-#foto{
-    
+body{   
         background-image: linear-gradient(to right, #1F00FF , #E53F60);
-        height: 100%;
-
 }
+
+.closebtn:hover {
+    color: black;
+  }
+
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  .alert {
+    padding: 20px;
+    background-color: #43e005;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
